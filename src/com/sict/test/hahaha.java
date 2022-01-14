@@ -10,7 +10,6 @@ public class hahaha {
         double a1=sc.nextDouble();
         System.out.println("请输入");
         double a2=sc.nextDouble();
-
         double sum = mul(a1,a2);
     }
     public static double mul(double a1,double a2){
